@@ -10,8 +10,6 @@ seaborn>=0.11.0
 pandas>=1.3.0
 Pillow>=8.0.0
 tqdm>=4.62.0
-
-# Optional: For better performance
 scikit-learn>=1.0.0
-To run the best model for Question 2 Please use the below methid
+# To run the best model for Question 2 Please use the below methid
 python Q2_test_pretrained_model.py --model_path <Q2_best_model.pth>
