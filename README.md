@@ -1,5 +1,6 @@
 # CS6886W_assignments
 Assignment_submissions
+# Seed Consistently Used :42
 # Requirements
 torch>=1.9.0
 torchvision>=0.10.0
